@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Pedro Mendes Reis!
 
-<!--
-**jptechstack/jptechstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor PHP | Laravel | Docker | MySQL
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em **PHP, Laravel, MySQL, Docker e Testes com PestPHP**. Meu objetivo é criar soluções eficientes e contribuir para a comunidade tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias & Ferramentas  
+- **Linguagens:** PHP, JavaScript  
+- **Frameworks:** Laravel 12, FilamentPHP, TailwindCSS  
+- **Banco de Dados:** MySQL  
+- **Ferramentas:** Git, GitHub, Docker, PestPHP  
+
+---
+
+## 📫 Contato  
+📧 E-mail: jptechstack@gmail.com  
+🔗 LinkedIn:https://www.linkedin.com/in/jptechstack/
+
