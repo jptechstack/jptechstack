@@ -1,20 +1,21 @@
-# 👋 Olá, eu sou João Pedro Mendes Reis!
+# 👋 Olá, eu sou João Pedro!
 
-### 💻 Desenvolvedor PHP | Laravel | Docker | MySQL
+### 💻 Desenvolvedor Laravel 12 | PHP | JavaScript
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em **PHP, Laravel, MySQL, Docker e Testes com PestPHP**. Meu objetivo é criar soluções eficientes e contribuir para a comunidade tech.
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em **PHP, Laravel 12, MySQL e testes com PestPHP e Larastan**. Meu objetivo é criar soluções eficientes e contribuir para a comunidade tech.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
+
 - **Linguagens:** PHP, JavaScript  
-- **Frameworks:** Laravel 12, FilamentPHP, TailwindCSS  
+- **Frameworks / Bibliotecas:** Laravel 12, TailwindCSS, Livewire, Inertia  
 - **Banco de Dados:** MySQL  
-- **Ferramentas:** Git, GitHub, Docker, PestPHP  
+- **Ferramentas & DevOps:** GitHub, Debugbar, PestPHP, Larastan, Telescope, Forge
 
 ---
 
 ## 📫 Contato  
-📧 E-mail: jptechstack@gmail.com  
-🔗 LinkedIn:https://www.linkedin.com/in/jptechstack/
 
+- **E-mail:** jptechstack@gmail.com  
+- **LinkedIn:** [linkedin.com/in/jptechstack](https://www.linkedin.com/in/jptechstack/)
