@@ -1,21 +1,60 @@
-# 👋 Olá, eu sou João Pedro!
+👋 Olá, eu sou João Pedro
+🚀 Desenvolvedor Full Stack (Laravel + React)
 
-### 💻 Desenvolvedor Laravel 12 | PHP | JavaScript
+Sou desenvolvedor focado em construir aplicações web modernas, performáticas e bem estruturadas. Trabalho principalmente com Laravel 12, Inertia.js, React e shadcn/ui, criando sistemas completos com backend robusto e interfaces profissionais.
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em **PHP, Laravel 12, MySQL e testes com PestPHP e Larastan**. Meu objetivo é criar soluções eficientes e contribuir para a comunidade tech.
+Tenho forte preocupação com:
 
----
+Código limpo e organizado
 
-## 🚀 Tecnologias & Ferramentas  
+Boas práticas e arquitetura
 
-- **Linguagens:** PHP, JavaScript  
-- **Frameworks / Bibliotecas:** Laravel 12, TailwindCSS, Livewire, Inertia  
-- **Banco de Dados:** MySQL  
-- **Ferramentas & DevOps:** GitHub, Debugbar, PestPHP, Larastan, Telescope, Forge
+Testes automatizados
 
----
+Performance e escalabilidade
 
-## 📫 Contato  
+Atualmente, estou aprofundando meus conhecimentos em qualidade de software e ecossistema Laravel.
 
-- **E-mail:** jptechstack@gmail.com  
-- **LinkedIn:** [linkedin.com/in/jptechstack](https://www.linkedin.com/in/jptechstack/)
+🛠️ Stack Principal
+
+Backend
+
+PHP
+
+Laravel 12
+
+MySQL
+
+Frontend
+
+React
+
+Inertia.js
+
+shadcn/ui
+
+Tailwind CSS
+
+Qualidade & Ferramentas
+
+PestPHP
+
+Larastan
+
+Telescope
+
+Debugbar
+
+Git & GitHub
+
+Laravel Forge
+
+🎯 Objetivo
+
+Desenvolver produtos SaaS e sistemas web completos, aplicando boas práticas modernas de desenvolvimento e arquitetura.
+
+📫 Contato
+
+📧 Email: jptechstack@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/jptechstack
