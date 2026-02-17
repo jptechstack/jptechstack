@@ -5,5 +5,3 @@ Experiência com testes (PestPHP), análise estática (Larastan) e boas prática
 Foco em performance, organização e código sustentável.
 
 Stack: PHP • Laravel • MySQL • React • Inertia • shadcn/ui
-
-📫 jptechstack@gmail.com
