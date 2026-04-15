@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá, eu sou João Pedro
 
-<!--
-**jptechstack/jptechstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack | PHP • Laravel • MySQL
 
-Here are some ideas to get you started:
+Desenvolvo aplicações web completas, focadas em performance, escalabilidade e código limpo.
+Experiência na construção de sistemas como SaaS, ERPs e plataformas web robustas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologias & Ferramentas
+
+**Backend**
+
+* PHP • Laravel • Livewire
+
+**Frontend**
+
+* Tailwind CSS • FluxUI
+
+**Banco de Dados**
+
+* MySQL
+
+**DevOps & Qualidade**
+
+* Docker (Laravel Sail) • Git • GitHub Actions
+* Testes com PestPHP
+* Qualidade de código com Larastan e Pint
+
+**Monitoramento & Debug**
+
+* Laravel Debugbar • Telescope
+
+---
+
+## Foco
+
+* Arquitetura limpa e organizada
+* APIs REST eficientes
+* Performance e escalabilidade
+* Experiência do utilizador (UX)
+
+---
+
+## Contato
+
+* LinkedIn: https://www.linkedin.com/in/jptechstack
+* Email: jptechstack@gmail.com
+
