@@ -15,7 +15,7 @@ Experiência na construção de sistemas como SaaS, ERPs e plataformas web robus
 
 **Frontend**
 
-* Tailwind CSS • FluxUI
+* Tailwind CSS • FluxUI • JavaScript
 
 **Banco de Dados**
 
